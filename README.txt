@@ -14,7 +14,7 @@ Cette page fonctionne directement, sans npm et sans installation.
 
 LIENS CONFIGURÉS
 
-- WhatsApp : 06 55 90 87 39
-- Appel : 06 55 90 87 39
+- WhatsApp : 07 83 69 96 33
+- Appel : 07 83 69 96 33
 - Localisation : Google Maps
 - Avis : formulaire Google Reviews de Print Space
